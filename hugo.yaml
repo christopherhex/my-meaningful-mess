@@ -1,0 +1,5 @@
+baseURL: https://www.mymeaningfulmess.com/
+languageCode: en-us
+title: My Meaningful Mess
+description: A blog about my life, my thoughts, and my mess.
+theme: ["PaperMod"]
