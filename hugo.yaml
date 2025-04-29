@@ -11,6 +11,8 @@ buildExpired: false
 enableRobotsTXT: true
 enableGitInfo: true
 
+canonifyURLs: true
+
 # Output settings
 minify:
   disableXML: true
