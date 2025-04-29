@@ -1,5 +1,21 @@
-baseURL: https://www.mymeaningfulmess.com/
-languageCode: en-us
+baseURL: https://christopherhex.github.io/my-meaningful-mess/
+languageCode: nl
 title: My Meaningful Mess
 description: A blog about my life, my thoughts, and my mess.
 theme: ["PaperMod"]
+
+# GitHub Pages specific settings
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableRobotsTXT: true
+enableGitInfo: true
+
+# Output settings
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# Security headers
+security:
+  enableInlineShortcodes: true
