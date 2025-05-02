@@ -1,5 +1,4 @@
 ---
-date: '2025-04-29T07:59:45+02:00'
 draft: false
 title: Over actie nemen
 ---

@@ -12,7 +12,8 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 canonifyURLs: true
-
+Params:
+  ShowReadingTime: true
 # Output settings
 minify:
   disableXML: true
