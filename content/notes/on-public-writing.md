@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Over schrijven in het openbaar
+title: Over schrijven (in het openbaar)
 ---
 
 Uiteindelijk is alles terug te brengen tot mensen. Alles wat we doen, alles wat we maken, doen we of voor onszelf of voor anderen. 
@@ -15,4 +15,10 @@ Schrijven helpt daarbij op twee manieren.
 
 Schrijven is fitness voor de hersenen.
 
-Dat in het publiek doen heeft het extra voordeel dat je er feedback op kan krijgen waardoor dat het nog beter kan worden. 
+Dat in het publiek doen heeft het extra voordeel dat je er feedback op kan krijgen waardoor dat het nog beter kan worden.
+
+## De output van het schrijven
+
+Ik zat op een avond in bed nog wat op mijn tablet te schrijven toen ik van mijn vrouw de vraag kreeg wat ik aan het schrijven was. Ik antwoordde dat ik mij als doel had gezet om elke dag **iets** te schrijven. Ze vroeg me wat ik daar dan mee ging doen. 
+
+Dat voelde als de vraag “wat ga je met de sterkere spieren doen na je fitness sessie?”. Schrijven is training in duidelijker communiceren. Of je de teksten die uit het schrijfproces nu publiceert of niet. Of je er nu iets mee doet of niet. Je hebt de oefening gehad.
