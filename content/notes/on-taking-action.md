@@ -5,6 +5,7 @@ title: Over actie nemen
 
 De enigste manier om vooruit te geraken is door actie te ondernemen.
 
+![think, write, act](/sketchnotes/250519-think-write-act.png)
 
 Er zijn veel dingen die voelen als actie, als iets doen, maar het eigenlijk niet zijn: 
 * Lezen
