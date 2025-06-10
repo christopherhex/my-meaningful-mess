@@ -22,7 +22,9 @@ Kleine acties tellen op als je ze elke dag doet.
 
 ![1 percent per day](/sketchnotes/250429-1percentperday.png)
 
-Ik wil meer schrijven. Als ik onmiddelijk een boek wil schrijven, gaat me dat waarschijnlijk niet lukken. Maar ik kan wel elke dag **iets** schrijven.   
+Ik wil meer schrijven. Als ik onmiddelijk een boek wil schrijven, gaat me dat waarschijnlijk niet lukken. Maar ik kan wel elke dag **iets** schrijven. 
+
+
 
 
 ## “Done is better than perfect”
